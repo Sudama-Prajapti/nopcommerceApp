@@ -1,0 +1,55 @@
+09/13/2025 10:03:12 PM: INFO: ******************veryfiyin the login test*********************
+09/13/2025 10:03:21 PM: INFO: ****************** Login test is passed*********************
+09/13/2025 10:03:22 PM: INFO: ******** Test_003_AddCustomer ********
+09/13/2025 10:03:27 PM: INFO: ********* Login succesful *********
+09/13/2025 10:03:27 PM: INFO: ******* Starting Add Customer Test ********
+09/13/2025 10:03:29 PM: INFO: ********* Providing customer info ******
+09/13/2025 10:03:34 PM: INFO:  *********** Saving customer info ***********
+09/13/2025 10:03:34 PM: INFO: ****** Add customer Test Passed ********
+09/13/2025 10:03:34 PM: INFO: ******* Starting Add Customer Test *********
+09/14/2025 09:13:17 PM: INFO: ******************Test_001_Login*********************
+09/14/2025 09:13:17 PM: INFO: ******************veryfiyin home page Title*********************
+09/14/2025 09:13:23 PM: INFO: ****************** home page Title test pass *********************
+09/14/2025 09:13:25 PM: INFO: ******************veryfiyin the login test*********************
+09/14/2025 09:13:33 PM: INFO: ****************** Login test is passed*********************
+09/14/2025 09:13:34 PM: INFO: *********** Test_002_DDT_Login ********
+09/14/2025 09:13:34 PM: INFO: *********** Verifying DDT Login Test ********
+09/14/2025 09:13:42 PM: INFO: [POSITIVE] Passed  for user: admin@yourstore.com
+09/14/2025 09:13:48 PM: INFO: [NEGATIVE] Passed for user: admin@yourstore.com (Expected Fail, and Login Failed)
+09/14/2025 09:13:53 PM: INFO: [NEGATIVE] Passed for user: adm@yourstore.com (Expected Fail, and Login Failed)
+09/14/2025 09:13:57 PM: INFO: [NEGATIVE] Passed for user: adm@yourstore.com (Expected Fail, and Login Failed)
+09/14/2025 09:13:57 PM: INFO: ====> DDT Login Test PASSED <====
+09/14/2025 09:13:57 PM: INFO: *********** Completed TC_LoginDDT_002 ***********
+09/14/2025 09:13:58 PM: INFO: ******** Test_003_AddCustomer ********
+09/14/2025 09:14:02 PM: INFO: ********* Login succesful *********
+09/14/2025 09:14:02 PM: INFO: ******* Starting Add Customer Test ********
+09/14/2025 09:14:05 PM: INFO: ********* Providing customer info ******
+09/14/2025 09:14:11 PM: INFO:  *********** Saving customer info ***********
+09/14/2025 09:14:12 PM: INFO: ****** Add customer Test Passed ********
+09/14/2025 09:14:12 PM: INFO: ******* Starting Add Customer Test *********
+09/14/2025 09:14:13 PM: INFO: ******** Test_SearchCustomerByEmail_004 ********
+09/14/2025 09:14:16 PM: INFO: ********* Login succesful *********
+09/14/2025 09:14:16 PM: INFO: ******* Starting Search customer By Email ********
+09/14/2025 09:14:17 PM: INFO: ********* Searching customer By email Id ******
+09/14/2025 09:14:23 PM: INFO: ********** TC_SearchCustomerBy_Email_004 Fineshed ********** 
+09/14/2025 09:14:24 PM: INFO: ******** Test_SearchCustomerByName_005 ********
+09/14/2025 09:14:28 PM: INFO: ********* Login succesful *********
+09/14/2025 09:14:28 PM: INFO: ******* Starting Search customer By Name ********
+09/14/2025 09:34:39 PM: INFO: ******************veryfiyin the login test*********************
+09/14/2025 09:34:49 PM: INFO: ****************** Login test is passed*********************
+09/14/2025 09:34:50 PM: INFO: ******** Test_003_AddCustomer ********
+09/14/2025 09:34:56 PM: INFO: ********* Login succesful *********
+09/14/2025 09:34:56 PM: INFO: ******* Starting Add Customer Test ********
+09/14/2025 09:35:09 PM: INFO: ********* Providing customer info ******
+09/14/2025 09:35:12 PM: INFO:  *********** Saving customer info ***********
+09/14/2025 09:35:15 PM: INFO: ****** Add customer Test Passed ********
+09/14/2025 09:35:15 PM: INFO: ******* Starting Add Customer Test *********
+09/14/2025 09:36:11 PM: INFO: ******************veryfiyin the login test*********************
+09/14/2025 09:36:22 PM: INFO: ****************** Login test is passed*********************
+09/14/2025 09:36:23 PM: INFO: ******** Test_003_AddCustomer ********
+09/14/2025 09:36:28 PM: INFO: ********* Login succesful *********
+09/14/2025 09:36:28 PM: INFO: ******* Starting Add Customer Test ********
+09/14/2025 09:36:41 PM: INFO: ********* Providing customer info ******
+09/14/2025 09:36:45 PM: INFO:  *********** Saving customer info ***********
+09/14/2025 09:36:45 PM: INFO: ****** Add customer Test Passed ********
+09/14/2025 09:36:45 PM: INFO: ******* Starting Add Customer Test *********
